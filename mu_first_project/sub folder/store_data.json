@@ -1,7 +1,0 @@
-[
-{ "name": "alice", "rating" :"5", "feedback":"great product" ,"age":"30" },
-{ "name": "bob", "rating" :"four", "feedback":"ok great product" ,"age":"25" },
-{ "name": "alice", "feedback":"great product","rating" :"4"  },
-{ "name": "alice", "rating" :"5", "feedback":"great product" ,"age":"30" },
-{ "name": "alice", "rating" :"5", "feedback":"great product" ,"age":"30" }
-]
